@@ -209,8 +209,8 @@ aside {
 @media only screen and (max-width: 767px) {
 
     .pumpkin {
-        width:40px;
-        height:35px;
+        width:2.5em;
+        height:2.188em;
     }
 
     section {
@@ -222,7 +222,7 @@ aside {
         float: right;
         clear: both;
         width: 100%;
-        height: 175px;
+        height: 10.938em;
     }
 
     .categories-list {
@@ -239,8 +239,8 @@ aside {
     }
 
     .cat-image {
-        width: 100px;
-        height: 80px;
+        width: 6.25em;
+        height: 5em;
     }
 }
 
